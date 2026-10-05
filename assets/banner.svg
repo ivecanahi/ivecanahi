@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="ivi_anahi - Software Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0f6"/>
+      <stop offset="1" stop-color="#fbcfe8"/>
+    </linearGradient>
+    <symbol id="paw" viewBox="0 0 40 40">
+      <ellipse cx="20" cy="26" rx="9" ry="8"/>
+      <circle cx="9" cy="15" r="4"/>
+      <circle cx="16" cy="9" r="4"/>
+      <circle cx="24" cy="9" r="4"/>
+      <circle cx="31" cy="15" r="4"/>
+    </symbol>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+
+  <g fill="#f9a8d4" opacity="0.45">
+    <use href="#paw" x="470" y="150" width="22" height="22" transform="rotate(-15 481 161)"/>
+    <use href="#paw" x="510" y="118" width="22" height="22" transform="rotate(-10 521 129)"/>
+    <use href="#paw" x="555" y="140" width="22" height="22" transform="rotate(-20 566 151)"/>
+    <use href="#paw" x="600" y="105" width="22" height="22" transform="rotate(-12 611 116)"/>
+  </g>
+
+  <text x="60" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#831843">ivi_anahi</text>
+  <text x="62" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#db2777" letter-spacing="2">SOFTWARE DEVELOPER</text>
+  <rect x="62" y="162" width="64" height="4" rx="2" fill="#f472b6"/>
+
+  <g>
+    <path d="M762 196 C812 196 820 140 792 126" fill="none" stroke="#db2777" stroke-width="12" stroke-linecap="round"/>
+    <ellipse cx="720" cy="160" rx="48" ry="50" fill="#db2777"/>
+    <polygon points="690,82 696,44 718,68" fill="#db2777"/>
+    <polygon points="750,82 744,44 722,68" fill="#db2777"/>
+    <polygon points="696,74 699,54 711,68" fill="#f9a8d4"/>
+    <polygon points="744,74 741,54 729,68" fill="#f9a8d4"/>
+    <circle cx="720" cy="98" r="34" fill="#db2777"/>
+    <ellipse cx="708" cy="96" rx="3.5" ry="5.5" fill="#fff0f6"/>
+    <ellipse cx="732" cy="96" rx="3.5" ry="5.5" fill="#fff0f6"/>
+    <polygon points="716,107 724,107 720,112" fill="#fbcfe8"/>
+    <g stroke="#fbcfe8" stroke-width="1.5" stroke-linecap="round">
+      <line x1="700" y1="108" x2="682" y2="104"/>
+      <line x1="700" y1="112" x2="682" y2="114"/>
+      <line x1="740" y1="108" x2="758" y2="104"/>
+      <line x1="740" y1="112" x2="758" y2="114"/>
+    </g>
+  </g>
+</svg>
